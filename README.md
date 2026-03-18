@@ -1,5 +1,5 @@
 # Tennis-Stroke-Classifier
-CS5100 Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation
+AI Project: Create a classifier for different tennis strokes using dinoV3, and analyze stroke form using pose estimation
 # Prerequisites
 To build the model, requires Dinov3 and MPII model weight files downloaded, file links: https://huggingface.co/facebook/dinov3-vitb16-pretrain-lvd1689m, MPII files: https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset
 # Description
